@@ -1,4 +1,4 @@
-# demo_calendar
+# Psilotec-mobile
 
 A new Flutter project.
 
